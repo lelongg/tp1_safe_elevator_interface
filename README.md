@@ -1,6 +1,8 @@
 # TP 1 - Simulateur d'Ascenseur
 
-### Sujet
+propriétaire du fork : Evan CRETON
+
+## Sujet
 
 Dans ce TP, vous allez implémenter un simulateur d'ascenseur respectant un modèle métier précis. L'ascenseur doit gérer son état, sa position, et une file de destinations, tout en respectant les règles métier définies.
 
